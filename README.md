@@ -6,6 +6,7 @@ We present SteelBlastQC, a dataset of steel surface images before and after shot
 
 ## Example images
 ![slices](https://github.com/user-attachments/assets/bb10b6c9-26ea-4c92-9711-94db0c1fef80)
+*Desired texture, ready for paint (left); untreated metal, needs shot-blasting (right)*
 
 ## Dataset access & overview
 SteelBlastQC is available for download at https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/EKZNN0. 
