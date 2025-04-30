@@ -59,11 +59,13 @@ Please cite this dataset/paper as follows:
 }
 ```
 ```bibtex
-TBA
+@inproceedings{steelbalstqc2025,
+  title={SteelBlastQC: Shot-blasted Steel Surface Dataset with Interpretable Detection of Surface Defects},
+  author = {Ruzavina, Irina and Theis, Lisa Sophie and Lemeer, Jesse and de Groen, Rutger and Ebeling, Leo and Hulak, Andrej and Ali, Jouaria and Tang, Guangzhi and Mockel, Rico},
+  booktitle={2025 International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--8},
+  year={2025},
+  organization={IEEE}
+}
 ```
-
-
-## License
-
-## Contact
 
