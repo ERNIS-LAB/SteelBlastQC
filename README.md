@@ -1,6 +1,8 @@
 # SteelBlastQC: Shot-blasted Steel Surface Dataset with Interpretable Detection of Surface Defects
 This is the official repository for SteelBlastQC, accepted to IJCNN 2025.
 
+The paper is available [here](https://arxiv.org/abs/2504.20510).
+
 ## Intro
 We present SteelBlastQC, a dataset of steel surface images before and after shot-blasting - a vital treatment that prepares the metal for painting - created to train automated quality control models. The images were collected in collaboration with industrial experts at a manufacturing facility. We tested three deep learning classification methods: Compact Convolutional Transformer (CCT), Support Vector Machine (SVM) classifier using ResNet feature extraction, and a CAE-based classifier. Additionally, for each method we generated heatmaps to visualize the reasoning behind the classification outputs.
 
